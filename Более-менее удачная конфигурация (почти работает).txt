@@ -1,0 +1,8 @@
+num_epochs = 5
+vocab_size = 7500
+embedding_dim = 32
+max_length = 200
+trunc_type = 'post'
+padding_type = 'post'
+oov_tok = '<OOV>'
+training_portion = .8
